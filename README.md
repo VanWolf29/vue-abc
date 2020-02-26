@@ -1,2 +1,2 @@
 # vue-abc
-Vue interactive web app for learning.
+Vue interactive web app for learning the framework.
